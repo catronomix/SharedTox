@@ -1,0 +1,1 @@
+This empty folder is currently needed to have the right path available when saving Kollections.
